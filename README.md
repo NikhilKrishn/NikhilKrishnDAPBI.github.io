@@ -3,7 +3,7 @@ Demonstrate data analysis skills by successfully analyzing large-scale datasets.
 ## Project Overview:
 ### Objectives:
 •	Actual Performance by Product and Team
-![Theme 1](
+![Theme 1](images/DA Pbi/Data Model.png)
 •	Variance Analysis by Person (Overall)
 •	Who has the most variance in each month?
 •	Which products have the highest profit per box?
