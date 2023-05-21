@@ -1,2 +1,2 @@
-# NikhilKrishn_DA_PBI.github.io
+# NikhilKrishnDAPBI.github.io
 DATA ANALYSIS ON SALES OF CHOCOLATE COMPANY:
